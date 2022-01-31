@@ -1,3 +1,3 @@
 <?php
-define ("usuario","jairo");
+define("usuario","jairo");
 echo constant('usuario');
